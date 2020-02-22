@@ -7,28 +7,32 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-
     <TextView
 
         android:id="@+id/flashcard_question"
         android:layout_width="match_parent"
         android:layout_height="200dp"
+        android:gravity="center"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="24dp"
-        android:text="¿Cuál es el nombre del artista que canta esta canción?"
+        android:background="#000000"
+        android:text=" ¿Cuál es el nombre del artista que canta esta canción?"
         android:textAlignment="center"
+        android:textColor="#ffffff"
+
         android:textSize="40sp" />
 
     <TextView
         android:id="@+id/flashcard_answer"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="200dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="75dp"
+        android:background="#00FFFF"
+        android:gravity="center"
         android:text="Christian Nodal"
         android:textAlignment="center"
+        android:textColor="#0000FF"
         android:textSize="40sp"
         android:visibility="invisible" />
 
