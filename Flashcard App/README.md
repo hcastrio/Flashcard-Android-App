@@ -6,7 +6,7 @@
 A work in progress Flashcard Moble Android App. 
 Currently the App shows the question with a background
 and text color and when you click the question the answer will show
-along with a different background and text color.
+along with a different background and text color, Vice Versa.
 
 ### App Walk-though
 
