@@ -11,7 +11,7 @@ along with a different background and text color.
 ### App Walk-though
 
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/hcastrio/FlashcardApp/blob/master/Flashcard%20App/walkthrough.gif" width=200><br>
 
 ## Required
 - [+] Create New Project in Android Studio
