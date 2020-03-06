@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddCardActivity">
+    <ImageView
+        android:id="@+id/MinusButton"
+        android:layout_width="63dp"
+        android:layout_height="57dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="22dp"
+        android:layout_marginEnd="26dp"
+        android:src="@drawable/ic_iconmonstr_x_mark_thin" />
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_height="70dp"
+        android:layout_margin= "20dp"
+        android:hint= "Enter the Question Here"
+        android:inputType="textMultiLine"/>
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        android:hint="Enter the Answer Here"
+        android:inputType="textMultiLine"
+        android:layout_below="@id/editText"/>
+
+    <ImageView
+        android:id="@+id/SaveButton"
+        android:layout_width="76dp"
+        android:layout_height="56dp"
+        android:layout_alignStart="@+id/editText"
+        android:layout_alignTop="@+id/MinusButton"
+        android:src="@drawable/ic_iconmonstr_clipboard_8" />
+</RelativeLayout>
