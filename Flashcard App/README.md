@@ -3,11 +3,16 @@
 ## Lab 2
 
 ### App Description
-`TODO://` Add app description
+We added a new button that takes the user to a new screen. In 
+this new screen they can now input their own question and answer
+or decide to exit without doing anything. When they decide to save
+their inputs they press the lower left button which will transfer 
+them back to the orginal screen but this time the question and answer
+they inputed will show.
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/hcastrio/FlashcardApp/blob/master/Flashcard%20App/walkthrough2.gif" width=200><br>
 
 ## Required
 - [+] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
