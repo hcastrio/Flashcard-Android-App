@@ -3,12 +3,14 @@
 ## Lab 3
 
 ### App Description
-`TODO://` Add app description
+The app now allows you to save your data, when you make a new 
+flashcard, after you close it, the flashcard you created will
+still show. Also you can know see multiple flashcards and you 
+can go throught them with a press of a button. 
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/hcastrio/FlashcardApp/blob/master/Flashcard%20App/walkthrough3.gif" width=200><br>
 
 ## Required
 - [+] User can create a card and still see their created card when the app is relaunched.
