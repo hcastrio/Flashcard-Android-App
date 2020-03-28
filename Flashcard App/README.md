@@ -3,11 +3,15 @@
 ## Lab 4
 
 ### App Description
-`TODO://` Add app description
+Finally the I have added animations to the app. Now, a animation is 
+displayed when switching to the page where you add a new flashcard. 
+Also when you press the question page to reveal the answer an animation
+is also shown. Lastly when switching from flashcard to another, there
+is also an animatio shown. 
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/hcastrio/FlashcardApp/blob/master/Flashcard%20App/walkthrough4.gif" width=200><br>
 
 ## Required
 - [+] User sees a transition animation when going from the main screen to the add card screen.
