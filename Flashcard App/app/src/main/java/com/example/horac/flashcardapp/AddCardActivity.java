@@ -19,6 +19,7 @@ public class AddCardActivity extends Activity {
             public void onClick(View v) {
                 Intent intent = new Intent(AddCardActivity.this, MainActivity.class);
                 AddCardActivity.this.startActivity(intent);
+                overridePendingTransition(R.anim.right_in, R.anim.left_out);
             }
         });
 

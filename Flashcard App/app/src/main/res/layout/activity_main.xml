@@ -15,10 +15,9 @@
         android:gravity="center"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:background="#000000"
         android:text=" ¿Cuál es el nombre del artista que canta esta canción?"
         android:textAlignment="center"
-        android:textColor="#ffffff"
+        android:textColor="#000000"
 
         android:textSize="40sp" />
 
@@ -28,11 +27,11 @@
         android:layout_height="200dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:background="#00FFFF"
+        android:background="#000000"
         android:gravity="center"
         android:text="Christian Nodal"
         android:textAlignment="center"
-        android:textColor="#0000FF"
+        android:textColor="#FFFFFF"
         android:textSize="40sp"
         android:visibility="invisible" />
 
