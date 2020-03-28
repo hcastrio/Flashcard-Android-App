@@ -3,11 +3,11 @@
 ## Lab 4
 
 ### App Description
-Finally the I have added animations to the app. Now, a animation is 
+Finally, I have added animations to the app. Now, a animation is 
 displayed when switching to the page where you add a new flashcard. 
 Also when you press the question page to reveal the answer an animation
-is also shown. Lastly when switching from flashcard to another, there
-is also an animatio shown. 
+is also shown. Lastly, when switching from flashcard to another, there
+is also an animation shown. 
 
 ### App Walk-though
 
