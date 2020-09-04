@@ -1,6 +1,6 @@
 ## The Flashcard App
 
-## Update 4
+## Final 4
 
 ### App Description
 Finally, I have added animations to the app. Now, a animation is 
