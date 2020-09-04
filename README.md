@@ -66,7 +66,7 @@ along with a different background and text color, Vice Versa.
 ### App Walk-though
 
 
-<img src="https://github.com/hcastrio/FlashcardApp/blob/master/Flashcard%20App/walkthrough.gif" width=200><br>
+<img src="https://github.com/hcastrio/Flashcard-Android-App/blob/master/walkthrough.gif?raw=true" width=200><br>
 
 ## Required
 - [+] Create New Project in Android Studio
@@ -76,3 +76,4 @@ along with a different background and text color, Vice Versa.
 - [+] Push code to GitHub
 - [+] toggle the flashcard between the question side and the answer side
 - [+] Style the question and answer side of the card to better distinguish between the two sides
+
