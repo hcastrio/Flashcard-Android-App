@@ -13,10 +13,9 @@ is also an animation shown.
 
 <img src="https://github.com/hcastrio/Flashcard-Android-App/blob/master/walkthrough4.gif?raw=true" width=200><br>
 
-## Required
-- [+] User sees a transition animation when going from the main screen to the add card screen.
-- [+] User sees a reveal animation when the flashcard is tapped and the answer is shown
-- [+] User sees flashcards animating in / out when the 'next' button is tapped
+- User sees a transition animation when going from the main screen to the add card screen.
+- User sees a reveal animation when the flashcard is tapped and the answer is shown
+- User sees flashcards animating in / out when the 'next' button is tapped
 
 ## Lab 3
 
@@ -30,9 +29,8 @@ can go throught them with a press of a button.
 
 <img src="https://github.com/hcastrio/Flashcard-Android-App/blob/master/walkthrough3.gif?raw=true" width=200><br>
 
-## Required
-- [+] User can create a card and still see their created card when the app is relaunched.
-- [+] User can create muliple cards and browse through all created cards
+- User can create a card and still see their created card when the app is relaunched.
+- User can create muliple cards and browse through all created cards
 
 ## Lab 2
 
@@ -48,12 +46,11 @@ they inputed will show.
 
 <img src="https://github.com/hcastrio/Flashcard-Android-App/blob/master/walkthrough2.gif?raw=true" width=200><br>
 
-## Required
-- [+] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
-- [+] The 'Add Card Screen' has a cancel button to take the user back to the main screen
-- [+] User can enter and submit a Question and Answer through the 'Add Card Screen'
-- [+] User will see the card they just created on the main screen when they press the 'Save Button'
-- [+] Push your progress to GitHub!
+- User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
+- The 'Add Card Screen' has a cancel button to take the user back to the main screen
+- User can enter and submit a Question and Answer through the 'Add Card Screen'
+- User will see the card they just created on the main screen when they press the 'Save Button'
+- Push your progress to GitHub!
 
 ## Lab 1
 
@@ -65,15 +62,13 @@ along with a different background and text color, Vice Versa.
 
 ### App Walk-though
 
-
 <img src="https://github.com/hcastrio/Flashcard-Android-App/blob/master/walkthrough.gif?raw=true" width=200><br>
 
-## Required
-- [+] Create New Project in Android Studio
-- [+] Add a view for the front side of the flashcard to display the question
-- [+] Add a view for the back side of the flashcard to display the answer
-- [+] Build in logic to show the answer side when the card is tapped
-- [+] Push code to GitHub
-- [+] toggle the flashcard between the question side and the answer side
-- [+] Style the question and answer side of the card to better distinguish between the two sides
+- Create New Project in Android Studio
+- Add a view for the front side of the flashcard to display the question
+- Add a view for the back side of the flashcard to display the answer
+- Build in logic to show the answer side when the card is tapped
+- Push code to GitHub
+- Toggle the flashcard between the question side and the answer side
+- Style the question and answer side of the card to better distinguish between the two sides
 
