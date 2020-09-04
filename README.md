@@ -1,6 +1,6 @@
 ## The Flashcard App
 
-## Lab 4
+## Update 4
 
 ### App Description
 Finally, I have added animations to the app. Now, a animation is 
@@ -17,7 +17,7 @@ is also an animation shown.
 - User sees a reveal animation when the flashcard is tapped and the answer is shown
 - User sees flashcards animating in / out when the 'next' button is tapped
 
-## Lab 3
+## Update 3
 
 ### App Description
 The app now allows you to save your data, when you make a new 
@@ -32,7 +32,7 @@ can go throught them with a press of a button.
 - User can create a card and still see their created card when the app is relaunched.
 - User can create muliple cards and browse through all created cards
 
-## Lab 2
+## Update 2
 
 ### App Description
 We added a new button that takes the user to a new screen. In 
@@ -52,7 +52,7 @@ they inputed will show.
 - User will see the card they just created on the main screen when they press the 'Save Button'
 - Push your progress to GitHub!
 
-## Lab 1
+## Update 1
 
 ### App Description
 A work in progress Flashcard Moble Android App. 
