@@ -11,7 +11,7 @@ is also an animation shown.
 
 ### App Walk-though
 
-<img src="https://github.com/hcastrio/FlashcardApp/blob/master/Flashcard%20App/walkthrough4.gif" width=200><br>
+<img src="https://github.com/hcastrio/Flashcard-Android-App/blob/master/walkthrough4.gif?raw=true" width=200><br>
 
 ## Required
 - [+] User sees a transition animation when going from the main screen to the add card screen.
@@ -28,7 +28,7 @@ can go throught them with a press of a button.
 
 ### App Walk-though
 
-<img src="https://github.com/hcastrio/FlashcardApp/blob/master/Flashcard%20App/walkthrough3.gif" width=200><br>
+<img src="https://github.com/hcastrio/Flashcard-Android-App/blob/master/walkthrough3.gif?raw=true" width=200><br>
 
 ## Required
 - [+] User can create a card and still see their created card when the app is relaunched.
@@ -46,7 +46,7 @@ they inputed will show.
 
 ### App Walk-though
 
-<img src="https://github.com/hcastrio/FlashcardApp/blob/master/Flashcard%20App/walkthrough2.gif" width=200><br>
+<img src="https://github.com/hcastrio/Flashcard-Android-App/blob/master/walkthrough2.gif?raw=true" width=200><br>
 
 ## Required
 - [+] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
